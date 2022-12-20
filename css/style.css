@@ -1,0 +1,64 @@
+html body
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+body
+{
+	font-family: arial black;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+
+/* header */
+
+header
+{
+	background-color: #158;
+	height: 60px;
+	line-height: 60px;
+}
+
+.logo
+{
+	color: red;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-weight: bold;
+	float: left;
+	margin-left: 10px;
+	font-family: algerian;
+	font-size: 30px;
+}
+
+.menu
+{
+	float: right;
+}
+
+.menu a
+{
+	color: #fff;
+	margin: 40px;
+	text-transform: uppercase;
+}
+
+.menu a:hover
+{
+	border-bottom: 1px solid #000;
+	color: yellow;
+}
+
+/* Banner */
+
+
+
+
+
+
+
